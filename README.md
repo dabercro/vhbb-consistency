@@ -17,3 +17,4 @@ Two files will appear in the working directory.
 With the default configuration,
 `vhbb_missing.txt` will list files that are on EOS and not at MIT.
 `vhbb_orphan.txt` will list files that are at MIT, but no longer on EOS.
+Files that appear in both lists actually have a different size at the two sites.
