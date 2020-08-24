@@ -1,0 +1,35 @@
+{
+  "FreeMem": 45,
+  "VarLocation": "var",
+  "WebDir": "www",
+  "MaxMissing": 10000,
+  "MaxOrphan": 10000,
+  "DeleteOrphans": 1,
+  "Timeout": 300,
+  "Retries": 1,
+  "NumThreads": 2,
+  "GFALThreads": 12,
+  "InventoryAge": 0,
+  "ListAge": 0,
+  "IgnoreAge": 14,
+  "RedirectorAge": 0,
+  "Redirectors": {
+    "T2_CH_CERN": "eoscms.cern.ch",
+    "T2_US_MIT": "xrootd.cmsaf.mit.edu"
+  },
+  "RootPath": "/store/group/phys_higgs/hbb/ntuples/VHbbPostNano",
+  "DirectoryList": [
+    "2016/V13",
+    "2017/V13",
+    "2018/V13"
+  ],
+  "IgnoreDirectories": [
+  ],
+  "SaveCache": 1,
+  "Unmerged": [
+  ],
+  "AdditionalLogDeletions": {
+  },
+  "UnmergedLogsAge": 60,
+  "UseTransferQueue": 0
+}
