@@ -11,7 +11,7 @@
   "GFALThreads": 12,
   "InventoryAge": 0,
   "ListAge": 0,
-  "IgnoreAge": 14,
+  "IgnoreAge": 0,
   "RedirectorAge": 0,
   "Redirectors": {
     "T2_CH_CERN": "eoscms.cern.ch",
